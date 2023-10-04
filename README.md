@@ -4,11 +4,11 @@ Make data-driven decisions for your farm with our Crop Recommendation System. Th
 
 **Key Features:**
 
-🌱 Crop Recommendations: Receive tailored suggestions for crops that thrive in your area.
-📊 Data Analysis: Utilize soil and climate data to make informed planting choices.
-💧 Resource Optimization: Efficiently use water, fertilizer, and land resources.
-🌐 User-Friendly: An intuitive interface makes data input and decision-making a breeze.
-📚 Educational Resources: Learn about best farming practices to improve your yields.
+- 🌱 Crop Recommendations: Receive tailored suggestions for crops that thrive in your area.
+- 📊 Data Analysis: Utilize soil and climate data to make informed planting choices.
+- 💧 Resource Optimization: Efficiently use water, fertilizer, and land resources.
+- 🌐 User-Friendly: An intuitive interface makes data input and decision-making a breeze.
+- 📚 Educational Resources: Learn about best farming practices to improve your yields.
 
 **Getting Started:**
 
